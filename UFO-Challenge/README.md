@@ -6,7 +6,7 @@ This webpage has five criteria: the date, city, state, country and the shape of 
 - Search with one criterion: enter a search term: a date: 1/11/2010. The result table on the right returns all the observations occured on Nov. 1, 2010. There are seven UFO observation records on Nov. 1, 2010, as shown in image 1.  
 
 ###### Image 1 Search by Observation Date on1/11/2010
-![]()
+![](https://github.com/kaylaisnomyname/UFOs/blob/main/UFO-Challenge/result-images/UFOs-search-date.png?raw=true)  
  
  - Search with more criteria: without refreshing the webpage, enter a second criterion, state Florida, "fl". Behind the sceen the webpage will filter the records for observations that occured on Nov.1, 2010 AND happened in state Florida. There are two records matched for both criteria, as shown in the result table.  
 ###### Image 2 Search by Observation in Florida, fl
